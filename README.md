@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Adedotun Gabriel
 #### Designer and Developer
-![Designer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Designer and Developer](https://github.com/thekiwidev/thekiwidev/blob/main/Twitter%20Header%20%E2%80%93%201.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

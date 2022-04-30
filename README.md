@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Adedotun Gabriel
-#### Designer and Developer
 ![Designer and Developer](https://github.com/thekiwidev/thekiwidev/blob/main/Twitter%20Header%20%E2%80%93%201.png)
+
+# Hi there 👋, I'm Adedotun Gabriel
+### Designer and Developer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -18,6 +19,7 @@ Skills:  REACT / JS / HTML / CSS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thekiwidev)  
 
 ![Profile views](https://gpvc.arturio.dev/thekiwidev)  
+
 <!---
 thekiwidev/thekiwidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

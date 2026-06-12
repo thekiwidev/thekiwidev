@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:9333EA&text=Adedotun%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
@@ -421,4 +420,3 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:9333EA" />
 
 </div>
-```

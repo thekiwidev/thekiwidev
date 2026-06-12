@@ -2,44 +2,44 @@
 <!--                          ANIMATED HEADER                          -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6D28D9,100:8B5CF6&height=220&section=header&text=Adedotun%20Gabriel&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Type-Safe%20Systems%20%E2%80%A2%20Cost%20Optimization&descSize=18&descAlignY=58&descColor=C4B5FD&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6FB8,50:4B99E8,100:6BAAED&height=220&section=header&text=Adedotun%20Gabriel&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Type-Safe%20Systems%20%E2%80%A2%20Cost%20Optimization&descSize=18&descAlignY=58&descColor=B3D4F5&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/thekiwidev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=I+ship+systems+that+scale%2C+cost+less%2C+reduce+complexity;Type-safe+architecture+%E2%80%A2+Domain-driven+design;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Cloud;Open-source%2C+zero-cost+developer+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8FC1F2&center=false&vCenter=true&width=720&height=60&lines=I+ship+systems+that+scale%2C+cost+less%2C+reduce+complexity;Type-safe+architecture+%E2%80%A2+Domain-driven+design;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Cloud;Open-source%2C+zero-cost+developer+tooling" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://www.uopeople.edu/">
-  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-In%20Progress-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" alt="degree" />
+  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-In%20Progress-4B99E8?style=flat-square&logo=googlescholar&logoColor=white" alt="degree" />
 </a>
 <a href="https://thekiwidev.me/">
-  <img src="https://img.shields.io/badge/Product%20Experimentation-Product%20School-4F46E5?style=flat-square&logo=producthunt&logoColor=white" alt="cert" />
+  <img src="https://img.shields.io/badge/Product%20Experimentation-Product%20School-2E6FB8?style=flat-square&logo=producthunt&logoColor=white" alt="cert" />
 </a>
-<img src="https://img.shields.io/badge/Abuja,%20Nigeria-WAT%20(UTC%2B1)-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Abuja,%20Nigeria-WAT%20(UTC%2B1)-174A82?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
 
 <br/><br/>
 
 <a href="https://thekiwidev.me/">
-  <img src="https://img.shields.io/badge/Portfolio-thekiwidev.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-thekiwidev.me-6BAAED?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://linkedin.com/in/thekiwidev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2E6FB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:adedotun@thekiwidev.me">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-4B99E8?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="https://github.com/thekiwidev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-174A82?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=thekiwidev&style=flat-square&color=6D28D9&label=Profile+Views" alt="profile views" />
-<img src="https://img.shields.io/github/followers/thekiwidev?style=flat-square&color=8B5CF6&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/thekiwidev?style=flat-square&color=4F46E5&logo=github&label=Stars" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=thekiwidev&style=flat-square&color=4B99E8&label=Profile+Views" alt="profile views" />
+<img src="https://img.shields.io/github/followers/thekiwidev?style=flat-square&color=6BAAED&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/thekiwidev?style=flat-square&color=2E6FB8&logo=github&label=Stars" alt="stars" />
 
 </div>
 
@@ -49,7 +49,7 @@
 <!--                             ABOUT                                 -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-About-6D28D9?style=flat-square" alt="about" />
+## <img src="https://img.shields.io/badge/-About-4B99E8?style=flat-square" alt="about" />
 
 I'm a **Full-Stack Engineer** with **4+ years** shipping production systems in React, TypeScript, and Node.js. I don't compete on *"I know React"* — I compete on building systems that **scale, cost less, and reduce complexity**, backed by quantified impact.
 
@@ -66,9 +66,9 @@ I'm a **Full-Stack Engineer** with **4+ years** shipping production systems in R
 <!--                           TECH STACK                              -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Tech%20Stack-4F46E5?style=flat-square" alt="stack" />
+## <img src="https://img.shields.io/badge/-Tech%20Stack-2E6FB8?style=flat-square" alt="stack" />
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
@@ -94,7 +94,7 @@ I'm a **Full-Stack Engineer** with **4+ years** shipping production systems in R
 <!--                     AI-AUGMENTED ENGINEERING                      -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-AI--Augmented%20Engineering-8B5CF6?style=flat-square" alt="ai" />
+## <img src="https://img.shields.io/badge/-AI--Augmented%20Engineering-6BAAED?style=flat-square" alt="ai" />
 
 I build *with* AI rather than train models — shipping local-first, BYOK tooling that makes LLM workflows cheaper, faster, and privacy-preserving.
 
@@ -112,7 +112,7 @@ I build *with* AI rather than train models — shipping local-first, BYOK toolin
 <!--                        FEATURED PROJECTS                          -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Featured%20Projects-6D28D9?style=flat-square" alt="projects" />
+## <img src="https://img.shields.io/badge/-Featured%20Projects-4B99E8?style=flat-square" alt="projects" />
 
 <details open>
 <summary><b>🗂️ tomd — Drag &amp; drop anything. Get Markdown.</b></summary>
@@ -200,7 +200,7 @@ Solves the silent-failure problem: when queries exceed Google's limits or groupi
 <!--                           EXPERIENCE                              -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Experience-4F46E5?style=flat-square" alt="experience" />
+## <img src="https://img.shields.io/badge/-Experience-2E6FB8?style=flat-square" alt="experience" />
 
 ### Front-End Engineer · SeamlessVisa
 `Jul 2023 – Dec 2025` · Remote
@@ -231,9 +231,9 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                          ACHIEVEMENTS                             -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Achievements-8B5CF6?style=flat-square" alt="achievements" />
+## <img src="https://img.shields.io/badge/-Achievements-6BAAED?style=flat-square" alt="achievements" />
 
-<div align="center">
+<div align="left">
 
 | Recognition | Details |
 | :--- | :--- |
@@ -251,15 +251,15 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                    EDUCATION & CERTIFICATIONS                     -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Education%20%26%20Certifications-6D28D9?style=flat-square" alt="certs" />
+## <img src="https://img.shields.io/badge/-Education%20%26%20Certifications-4B99E8?style=flat-square" alt="certs" />
 
 **University of the People** &nbsp;`DEAC-accredited`
 
-<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-In%20Progress%20(2023–)-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="bsc" />
+<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-In%20Progress%20(2023–)-2E6FB8?style=for-the-badge&logo=googlescholar&logoColor=white" alt="bsc" />
 
 **Product School**
 
-<img src="https://img.shields.io/badge/Product%20Experimentation-Micro--Certification%202025-6D28D9?style=for-the-badge&logo=producthunt&logoColor=white" alt="product-school" />
+<img src="https://img.shields.io/badge/Product%20Experimentation-Micro--Certification%202025-4B99E8?style=for-the-badge&logo=producthunt&logoColor=white" alt="product-school" />
 
 ---
 
@@ -267,19 +267,19 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                          OPEN SOURCE                              -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Open%20Source-4F46E5?style=flat-square" alt="oss" />
+## <img src="https://img.shields.io/badge/-Open%20Source-2E6FB8?style=flat-square" alt="oss" />
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/thekiwidev/tomd">
-  <img src="https://img.shields.io/badge/tomd-Document%20%E2%86%92%20Markdown-8B5CF6?style=for-the-badge&logo=markdown&logoColor=white" alt="tomd" />
+  <img src="https://img.shields.io/badge/tomd-Document%20%E2%86%92%20Markdown-6BAAED?style=for-the-badge&logo=markdown&logoColor=white" alt="tomd" />
 </a>
 <a href="https://github.com/thekiwidev">
-  <img src="https://img.shields.io/badge/Sift-AI%20Research%20Sidebar-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="sift" />
+  <img src="https://img.shields.io/badge/Sift-AI%20Research%20Sidebar-4B99E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="sift" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/License-MIT-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="mit" />
-<img src="https://img.shields.io/badge/Zero%20Hosted%20Infra-By%20Design-312E81?style=for-the-badge&logo=serverless&logoColor=white" alt="zero-infra" />
+<img src="https://img.shields.io/badge/License-MIT-2E6FB8?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="mit" />
+<img src="https://img.shields.io/badge/Zero%20Hosted%20Infra-By%20Design-174A82?style=for-the-badge&logo=serverless&logoColor=white" alt="zero-infra" />
 
 </div>
 
@@ -289,16 +289,16 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                        GITHUB ANALYTICS                           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-GitHub%20Analytics-8B5CF6?style=flat-square" alt="analytics" />
+## <img src="https://img.shields.io/badge/-GitHub%20Analytics-6BAAED?style=flat-square" alt="analytics" />
 
-<div align="center">
+<div align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekiwidev&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" alt="stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=thekiwidev&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekiwidev&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8FC1F2&icon_color=6BAAED&text_color=B3D4F5&ring_color=4B99E8" alt="stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=thekiwidev&hide_border=true&background=0D1117&stroke=4B99E8&ring=6BAAED&fire=8FC1F2&currStreakLabel=8FC1F2&sideLabels=B3D4F5&dates=6BAAED&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiwidev&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiwidev&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8FC1F2&text_color=B3D4F5" alt="top languages" />
 
 </div>
 
@@ -308,9 +308,9 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                         GITHUB TROPHIES                           -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Trophies-6D28D9?style=flat-square" alt="trophies" />
+## <img src="https://img.shields.io/badge/-Trophies-4B99E8?style=flat-square" alt="trophies" />
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-profile-trophy.vercel.app/?username=thekiwidev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 
@@ -322,11 +322,11 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                      CONTRIBUTION ACTIVITY                        -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Contribution%20Activity-4F46E5?style=flat-square" alt="activity" />
+## <img src="https://img.shields.io/badge/-Contribution%20Activity-2E6FB8?style=flat-square" alt="activity" />
 
-<div align="center">
+<div align="left">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thekiwidev&bg_color=0D1117&color=A78BFA&line=6D28D9&point=C4B5FD&area=true&hide_border=true" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thekiwidev&bg_color=0D1117&color=8FC1F2&line=4B99E8&point=B3D4F5&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -336,7 +336,7 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                       CONTRIBUTION SNAKE                          -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
 <img width="100%" src="https://raw.githubusercontent.com/thekiwidev/thekiwidev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
@@ -348,7 +348,7 @@ Co-pioneered an e-commerce platform connecting US diaspora communities to home-c
 <!--                          CURRENT FOCUS                            -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Current%20Focus-8B5CF6?style=flat-square" alt="focus" />
+## <img src="https://img.shields.io/badge/-Current%20Focus-6BAAED?style=flat-square" alt="focus" />
 
 ```yaml
 learning:
@@ -375,21 +375,21 @@ open_to:
 <!--                            CONNECT                                -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Connect-6D28D9?style=flat-square" alt="connect" />
+## <img src="https://img.shields.io/badge/-Connect-4B99E8?style=flat-square" alt="connect" />
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:adedotun@thekiwidev.me">
-  <img src="https://img.shields.io/badge/Gmail-adedotun@thekiwidev.me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <img src="https://img.shields.io/badge/Gmail-adedotun@thekiwidev.me-4B99E8?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 <a href="https://linkedin.com/in/thekiwidev/">
-  <img src="https://img.shields.io/badge/LinkedIn-in/thekiwidev-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-in/thekiwidev-2E6FB8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://github.com/thekiwidev">
-  <img src="https://img.shields.io/badge/GitHub-thekiwidev-312E81?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-thekiwidev-174A82?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://thekiwidev.me/">
-  <img src="https://img.shields.io/badge/Portfolio-thekiwidev.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-thekiwidev.me-6BAAED?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 
 </div>
@@ -400,10 +400,10 @@ open_to:
 <!--                             FOOTER                                -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="left">
 
 <i>"I don't memorize APIs — I know which abstraction to reach for, and when to build my own."</i>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4F46E5&height=120&section=footer&animation=fadeIn" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6BAAED,50:4B99E8,100:2E6FB8&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 </div>

@@ -1,422 +1,409 @@
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                          ANIMATED HEADER                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:9333EA&text=Adedotun%20Gabriel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;TypeScript+%7C+React+%7C+Node.js;AI-Powered+Product+Builder;Scalable+Systems+Architect;Open+Source+Contributor" />
-
-<br/>
-
-![Computer Science](https://img.shields.io/badge/B.Sc%20Computer%20Science-University%20of%20the%20People-6D28D9?style=for-the-badge)
-![Product School](https://img.shields.io/badge/Product%20School-Certified-7C3AED?style=for-the-badge)
-![Remote](https://img.shields.io/badge/Remote-GMT%20%2B1-4F46E5?style=for-the-badge)
-![Location](https://img.shields.io/badge/Abuja-Nigeria-8B5CF6?style=for-the-badge)
-
-<br/>
-
-<a href="https://thekiwidev.me">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/thekiwidev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:adedotun@thekiwidev.me">
-  <img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6D28D9,100:8B5CF6&height=220&section=header&text=Adedotun%20Gabriel&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Type-Safe%20Systems%20%E2%80%A2%20Cost%20Optimization&descSize=18&descAlignY=58&descColor=C4B5FD&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/thekiwidev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=I+ship+systems+that+scale%2C+cost+less%2C+reduce+complexity;Type-safe+architecture+%E2%80%A2+Domain-driven+design;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Cloud;Open-source%2C+zero-cost+developer+tooling" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.uopeople.edu/">
+  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-In%20Progress-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" alt="degree" />
+</a>
+<a href="https://thekiwidev.me/">
+  <img src="https://img.shields.io/badge/Product%20Experimentation-Product%20School-4F46E5?style=flat-square&logo=producthunt&logoColor=white" alt="cert" />
+</a>
+<img src="https://img.shields.io/badge/Abuja,%20Nigeria-WAT%20(UTC%2B1)-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+
+<br/><br/>
+
+<a href="https://thekiwidev.me/">
+  <img src="https://img.shields.io/badge/Portfolio-thekiwidev.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://linkedin.com/in/thekiwidev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:adedotun@thekiwidev.me">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="https://github.com/thekiwidev">
+  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=thekiwidev&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/thekiwidev?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/thekiwidev?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED)
+<img src="https://komarev.com/ghpvc/?username=thekiwidev&style=flat-square&color=6D28D9&label=Profile+Views" alt="profile views" />
+<img src="https://img.shields.io/github/followers/thekiwidev?style=flat-square&color=8B5CF6&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/thekiwidev?style=flat-square&color=4F46E5&logo=github&label=Stars" alt="stars" />
 
 </div>
 
 ---
 
-# About Me
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT                                 -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-Full-Stack Engineer with 4+ years of experience building scalable production systems, high-performance web applications, and AI-powered products.
+## <img src="https://img.shields.io/badge/-About-6D28D9?style=flat-square" alt="about" />
 
-I specialize in architecting modern software platforms using **TypeScript, React, Next.js, Node.js, PostgreSQL, and Cloud Infrastructure**, with a strong emphasis on maintainability, performance, and developer experience.
+I'm a **Full-Stack Engineer** with **4+ years** shipping production systems in React, TypeScript, and Node.js. I don't compete on *"I know React"* — I compete on building systems that **scale, cost less, and reduce complexity**, backed by quantified impact.
 
-My work spans:
+- **Systems over features.** I approach architecture through domain-driven design — mapping entities, invariants, and state machines *before* writing application code.
+- **Invisible performance.** Type-safe abstractions, sub-300ms real-time latency over 3G, and infrastructure cost cuts users never notice because it just works.
+- **AI-augmented building.** I build developer tooling that makes LLM workflows cheaper and faster — local-first, BYOK, zero hosted infrastructure.
+- **Async-first, open-source ethos.** Nigerian connectivity made me master clear written communication and zero-cost user economics.
 
-- Designing scalable frontend architectures
-- Building type-safe backend services
-- AI-powered product development
-- Real-time communication systems
-- Performance optimization
-- Cloud-native deployment pipelines
-- Product-focused engineering execution
-
-### Open To
-
-- Senior Frontend Engineering Roles
-- Full-Stack Engineering Opportunities
-- AI Product Engineering
-- Developer Tooling
-- Technical Consulting
-- Open Source Collaborations
+> **Open To** &nbsp;`Remote Full-Stack / Front-End roles` &nbsp;•&nbsp; `Measured pivot toward Cloud / Backend / DevOps` &nbsp;•&nbsp; `Low-friction collaboration (WAT / EU / Africa overlap)`
 
 ---
 
-# Tech Stack
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                           TECH STACK                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-### Languages
+## <img src="https://img.shields.io/badge/-Tech%20Stack-4F46E5?style=flat-square" alt="stack" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,bash" />
-</p>
+<div align="center">
 
-### Frontend
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="languages" />
 
-### Backend & Databases
+**Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase,supabase" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,figma&theme=dark" alt="frontend" />
 
-### Cloud, DevOps & Tooling
+**Backend &amp; Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions,git,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,supabase,firebase&theme=dark" alt="backend" />
+
+**Cloud, DevOps &amp; Tooling**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,githubactions,jest,bun,vite&theme=dark" alt="tooling" />
+
+</div>
 
 ---
 
-# AI / ML Expertise
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     AI-AUGMENTED ENGINEERING                      -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-AI--Augmented%20Engineering-8B5CF6?style=flat-square" alt="ai" />
+
+I build *with* AI rather than train models — shipping local-first, BYOK tooling that makes LLM workflows cheaper, faster, and privacy-preserving.
 
 | Domain | Proficiency | Details |
-|----------|----------|----------|
-| AI Product Engineering | Advanced | Building AI-first user experiences and production integrations |
-| LLM Applications | Advanced | GPT workflows, prompt engineering, retrieval systems |
-| Conversational Systems | Advanced | Voice-based and real-time AI interfaces |
-| AI UX Design | Advanced | Human-centered AI interaction design |
-| Agentic Workflows | Intermediate | Multi-step task execution and automation |
-| Data Processing Pipelines | Intermediate | Validation systems, transformations, and automation |
-| Model Integration | Advanced | OpenAI APIs and enterprise AI workflows |
+| :--- | :--- | :--- |
+| **LLM Context Optimization** | `Advanced` | Built **tomd**, a desktop GUI converting documents to token-efficient Markdown before they hit an LLM's context window |
+| **BYOK / Client-Side AI Integration** | `Advanced` | Architecting **Sift** — a read-only AI research sidebar with bring-your-own-key Gemini integration, no hosted backend |
+| **AI-Assisted Development** | `Advanced` | Daily-driver workflows for spec-writing, refactoring, and complexity reduction across the stack |
+| **Prompt &amp; Schema Design** | `Intermediate` | Zod-validated structured outputs, deterministic query compilation (Scholarle), edge-case-aware AI flows |
+| **Privacy-First Architecture** | `Advanced` | 100% on-device processing, zero telemetry, MIT-licensed tooling by default |
 
 ---
 
-# Featured Projects
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<details>
-<summary><b>Momentum Logistics Service (MLS)</b></summary>
+## <img src="https://img.shields.io/badge/-Featured%20Projects-6D28D9?style=flat-square" alt="projects" />
 
-### Enterprise Logistics Platform
+<details open>
+<summary><b>🗂️ tomd — Drag &amp; drop anything. Get Markdown.</b></summary>
 
-A production-grade logistics platform integrating global carriers, payment systems, and shipment intelligence.
+<br/>
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Next.js, Bun, TypeScript, PostgreSQL, Prisma |
-| Scale | Multi-carrier shipment tracking |
-| Performance | SSR + Edge Caching |
-| Security | Webhook Verification & Validation Layers |
-| Impact | Increased enterprise contract value by 40% |
-| Repository | Private |
+A tiny, open-source desktop app that turns PDFs, Word docs, spreadsheets, slides, and images into clean, token-efficient Markdown — the format LLMs natively speak. A transparent GUI over Microsoft's MarkItDown CLI: it finds or installs the binary in a private venv, shells out file-by-file, and saves the `.md` next to the original. No server, no accounts, no uploads.
 
-#### Highlights
+| | |
+| :--- | :--- |
+| **Stack** | Desktop GUI · Microsoft MarkItDown · Python venv orchestration · Subprocess pipeline |
+| **Scale** | 13+ input formats (PDF, Office, images w/ OCR, audio, HTML, archives, EPub, Outlook) |
+| **Performance** | Sequential queue, live per-file progress, ~2–3s/document conversions |
+| **Security** | 100% on-device, zero telemetry, private venv (global Python never touched) |
+| **Impact** | Cuts LLM context overhead by converting documents *before* they reach the chat box |
+| **Repository** | [github.com/thekiwidev/tomd](https://github.com/thekiwidev/tomd) |
 
-- FedEx & DHL integrations
-- Multi-provider payment architecture
-- Automated shipment tracking
-- Real-time status synchronization
-- Enterprise-grade validation layer
+Built to solve a real pain: attaching a `.docx` or `.pptx` to an LLM burns context on formatting overhead before the model reads a single idea. tomd does the conversion locally and inspectably — every shell command streams to the screen, the binary in use is shown in the footer, and one folder delete undoes the entire setup.
 
 </details>
 
 <details>
-<summary><b>FiBi AI</b></summary>
+<summary><b>🔍 Sift — Read-only AI research sidebar (in development)</b></summary>
 
-### Real-Time AI Interview Platform
+<br/>
 
-AI-powered voice interaction platform built for legal and immigration workflows.
+An open-source Chrome extension that turns any page into a research surface — a read-only AI sidebar with no browser automation and a strictly client-side architecture. BYOK model with Gemini as the primary provider, so users pay zero hosted-infrastructure cost.
 
-| Category | Details |
-|-----------|-----------|
-| Stack | React, TypeScript, WebSockets |
-| Scale | Real-time conversations |
-| Performance | Sub-300ms latency on 3G networks |
-| Security | Secure session handling |
-| Impact | Improved interview reliability and retention |
-| Repository | Private |
+| | |
+| :--- | :--- |
+| **Stack** | TypeScript (strict) · Manifest V3 · React 19 · Zustand · Zod · Tailwind · Vite + CRXJS · Bun |
+| **Scale** | Multi-scope context (page / selection / tabs) with token-budget management |
+| **Performance** | Client-side-only, lazy context assembly, no background polling |
+| **Security** | Git-ignored local key storage, CI secret scanning, no data exfiltration |
+| **Impact** | Zero-cost research assistant — open-source, MIT-licensed, no backend to run |
+| **Repository** | [github.com/thekiwidev](https://github.com/thekiwidev) |
 
-#### Highlights
-
-- Custom jitter buffer implementation
-- Live voice communication
-- AI-assisted interviews
-- Audio optimization pipeline
-- Resilient network handling
+Designed against a full technical spec (architecture, domain models, edge cases, token-budget math, privacy posture) before a line of app code — domain-first, as I build everything.
 
 </details>
 
 <details>
-<summary><b>MigranX</b></summary>
+<summary><b>📦 Momentum Logistics Service (MLS) — Multi-carrier logistics platform</b></summary>
 
-### Cross-Border Commerce Platform
+<br/>
 
-E-commerce ecosystem connecting diaspora communities with products from home markets.
+A full-stack logistics platform for a Poland-based client, integrating multiple carriers and payment gateways with KSeF-compliant invoicing.
 
-| Category | Details |
-|-----------|-----------|
-| Stack | React Native, Node.js, PostgreSQL |
-| Scale | Multi-app ecosystem |
-| Performance | Offline-first architecture |
-| Security | Authenticated order lifecycle |
-| Impact | Infrastructure cost reduced from $2,000 to $600 monthly |
-| Repository | Private |
+| | |
+| :--- | :--- |
+| **Stack** | Next.js · Bun · TypeScript · Node.js · PostgreSQL · Prisma · Tailwind |
+| **Scale** | Multi-carrier (FedEx + DHL eCommerce APIs), dual payment gateways |
+| **Performance** | SSR + Edge caching, Zod runtime validation, 15s gateway timeout |
+| **Security** | Webhook signature verification, polling fallbacks for transactional availability |
+| **Impact** | Drove a 40% increase in contract value from enterprise clients |
+| **Repository** | [Portfolio case study](https://thekiwidev.me/) |
 
-#### Highlights
-
-- Consumer application
-- Driver delivery platform
-- Real-time delivery tracking
-- Intelligent caching architecture
-- Cost-optimized infrastructure
+Dual-gateway payment engine (Stripe + PayU Poland) with verification and fallbacks ensures transactions stay available even when a provider degrades.
 
 </details>
 
 <details>
-<summary><b>Scholarle</b></summary>
+<summary><b>🎓 Scholarle — Google Scholar query builder</b></summary>
 
-### Academic Search Intelligence Tool
+<br/>
 
-Advanced query-builder platform designed for Google Scholar power users.
+A smart query builder that compiles visual boolean filters into valid Google Scholar search syntax, handling the special cases most tools silently break on.
 
-| Category | Details |
-|-----------|-----------|
-| Stack | Next.js 15, React 19, TypeScript |
-| Scale | Academic research workflows |
-| Performance | Optimized search generation |
-| Security | Input validation & sanitization |
-| Impact | Reduced search construction errors |
-| Repository | Private |
+| | |
+| :--- | :--- |
+| **Stack** | Next.js 15 · React 19 · Radix UI · Tailwind |
+| **Scale** | Boolean grouping, journal filtering, quote handling, length-limit guards |
+| **Performance** | Deterministic query compilation, client-side |
+| **Security** | No data collection — pure client-side URL generation |
+| **Impact** | Prevents silent failures when queries exceed Google's length limits |
+| **Repository** | [Portfolio case study](https://thekiwidev.me/) |
 
-#### Highlights
-
-- Visual query builder
-- Advanced filter logic
-- Search syntax generation
-- Research productivity enhancement
+Solves the silent-failure problem: when queries exceed Google's limits or grouping is malformed, most tools fail invisibly. Scholarle compiles deterministically with guards.
 
 </details>
 
 ---
 
-# Experience
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                           EXPERIENCE                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-## Front-End Engineer — SeamlessVisa
+## <img src="https://img.shields.io/badge/-Experience-4F46E5?style=flat-square" alt="experience" />
 
-**Jul 2023 — Dec 2025**
+### Front-End Engineer · SeamlessVisa
+`Jul 2023 – Dec 2025` · Remote
 
-Built mission-critical systems supporting immigration and legal technology workflows.
+Owned the front-end of a legal-tech platform spanning 14 visa categories and real-time legal interviews.
 
-### Scope
+- Built a **dynamic validation engine** in TypeScript + JSON-schema handling conditional logic across 14 visa categories — cut 2K+ lines of redundant code and dropped form submission error rates **45%**.
+- Built **FiBi's** front-end on a WebSocket voice architecture with custom jitter-buffer logic, holding **sub-300ms latency over 3G** for live legal interviews.
+- Added **client-side audio compression**, cutting server egress costs **30%** with no data loss.
+- Built a Tailwind + Headless UI **design system** (atomic design) that cut design-to-production handoff **70%** at **100% WCAG 2.1 AA**.
 
-- Architected dynamic validation engines
-- Built real-time AI voice interfaces
-- Designed accessibility-first UI systems
-- Improved platform maintainability
-- Reduced operational costs through optimization
+`TypeScript` `React` `WebSockets` `JSON-Schema` `Tailwind` `Accessibility`
 
-**Skills**
+### Founding Partner &amp; Lead Front-End Engineer · MigranX (ProServants)
+`Oct 2022 – Present` · Remote
 
-`TypeScript` `React` `Next.js` `WebSockets` `TailwindCSS` `Accessibility`
+Co-pioneered an e-commerce platform connecting US diaspora communities to home-country products — consumer app, driver delivery system, and marketing site.
 
----
+- Architected **offline-first** React Native consumer + driver apps with Zustand + AsyncStorage, lifting retention **+22%** in low-connectivity regions.
+- Built a **TanStack Query** data layer with cache invalidation and request dedup via Axios interceptors, cutting redundant API calls **40%**.
+- Drove monthly infrastructure cost from **$2,000 → $600** — **$16,800/yr** saved — while keeping real-time order tracking performant.
 
-## Founding Partner & Lead Frontend Engineer — MigranX
-
-**Oct 2022 — Present**
-
-Co-founded and led frontend engineering initiatives across consumer, logistics, and operational products.
-
-### Scope
-
-- Product architecture
-- Mobile application development
-- Delivery coordination systems
-- Cost optimization initiatives
-- Technical leadership
-
-**Skills**
-
-`React Native` `TypeScript` `Zustand` `TanStack Query` `Node.js`
+`React Native` `Zustand` `TanStack Query` `Firebase` `Offline-First` `Cost Optimization`
 
 ---
 
-# Achievements
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                          ACHIEVEMENTS                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Achievements-8B5CF6?style=flat-square" alt="achievements" />
 
 <div align="center">
 
 | Recognition | Details |
-|-------------|---------|
-| Performance Engineering | Reduced infrastructure costs by 70% |
-| System Architecture | Built enterprise-scale validation engine |
-| Real-Time Systems | Delivered sub-300ms communication platform |
-| Product Engineering | Led development of multi-product ecosystems |
-| Accessibility | Achieved WCAG-compliant design systems |
+| :--- | :--- |
+| 💰 **Infrastructure Cost Cut** | Reduced monthly infra spend ~70% ($2K → $600), saving **$16,800/year** |
+| 🧩 **Complexity Reduction** | ~60% complexity + 45% error-rate reduction on a visa-form validation engine |
+| ⚡ **Real-Time Performance** | Sustained **sub-300ms** WebSocket latency over 3G for live voice |
+| ♿ **Accessibility** | **100% WCAG 2.1 AA** design system; 100-Lighthouse portfolio |
+| 📦 **Open Source** | Shipped **tomd** — local-first, MIT-licensed document→Markdown converter |
 
 </div>
 
 ---
 
-# Certifications
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    EDUCATION & CERTIFICATIONS                     -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-### AWS
+## <img src="https://img.shields.io/badge/-Education%20%26%20Certifications-6D28D9?style=flat-square" alt="certs" />
 
-![AWS](https://img.shields.io/badge/AWS-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws)
+**University of the People** &nbsp;`DEAC-accredited`
 
-### Oracle
+<img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-In%20Progress%20(2023–)-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" alt="bsc" />
 
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
+**Product School**
 
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Continuing-0F4C81?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Learning-049FD9?style=for-the-badge&logo=cisco)
-
-### Product School
-
-![Product School](https://img.shields.io/badge/Product%20Experimentation-Certified-7C3AED?style=for-the-badge)
+<img src="https://img.shields.io/badge/Product%20Experimentation-Micro--Certification%202025-6D28D9?style=for-the-badge&logo=producthunt&logoColor=white" alt="product-school" />
 
 ---
 
-# Coding Profiles
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                          OPEN SOURCE                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Open%20Source-4F46E5?style=flat-square" alt="oss" />
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
+<a href="https://github.com/thekiwidev/tomd">
+  <img src="https://img.shields.io/badge/tomd-Document%20%E2%86%92%20Markdown-8B5CF6?style=for-the-badge&logo=markdown&logoColor=white" alt="tomd" />
+</a>
+<a href="https://github.com/thekiwidev">
+  <img src="https://img.shields.io/badge/Sift-AI%20Research%20Sidebar-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="sift" />
+</a>
+<br/>
+<img src="https://img.shields.io/badge/License-MIT-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="mit" />
+<img src="https://img.shields.io/badge/Zero%20Hosted%20Infra-By%20Design-312E81?style=for-the-badge&logo=serverless&logoColor=white" alt="zero-infra" />
 
 </div>
 
 ---
 
-# GitHub Analytics
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB ANALYTICS                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-GitHub%20Analytics-8B5CF6?style=flat-square" alt="analytics" />
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekiwidev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thekiwidev&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" alt="stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=thekiwidev&hide_border=true&background=0D1117&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thekiwidev&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiwidev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiwidev&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="top languages" />
 
 </div>
 
 ---
 
-# GitHub Trophies
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                         GITHUB TROPHIES                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Trophies-6D28D9?style=flat-square" alt="trophies" />
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thekiwidev&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=thekiwidev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 
 </div>
 
 ---
 
-# Contribution Activity
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      CONTRIBUTION ACTIVITY                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Contribution%20Activity-4F46E5?style=flat-square" alt="activity" />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thekiwidev&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thekiwidev&bg_color=0D1117&color=A78BFA&line=6D28D9&point=C4B5FD&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
 ---
 
-# Contribution Snake
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION SNAKE                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thekiwidev/thekiwidev/output/github-contribution-grid-snake-dark.svg" />
+<img width="100%" src="https://raw.githubusercontent.com/thekiwidev/thekiwidev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
 ---
 
-# Current Focus
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                          CURRENT FOCUS                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Current%20Focus-8B5CF6?style=flat-square" alt="focus" />
 
 ```yaml
 learning:
-  - AI Agents
-  - Distributed Systems
-  - Cloud Architecture
-  - Product Strategy
+  - Cloud / Backend / DevOps (measured pivot)
+  - Systems design & algorithm foundations (B.Sc. CS)
 
 building:
-  - AI-Powered Products
-  - Logistics Platforms
-  - Developer Tools
-  - Scalable SaaS Systems
+  - tomd        # local-first document → Markdown converter
+  - Sift        # BYOK AI research sidebar, client-side only
 
 exploring:
-  - Agentic Workflows
-  - Multi-Modal AI
-  - Edge Infrastructure
-  - High Performance Applications
+  - Token-efficient LLM workflows
+  - Zero-cost, no-hosted-infra developer tooling
 
 open_to:
-  - Senior Software Engineering
-  - AI Engineering
-  - Technical Consulting
-  - Open Source Collaboration
-````
+  - Remote Full-Stack / Front-End roles
+  - Cloud / Backend / DevOps opportunities
+  - Low-friction async collaboration (WAT · UTC+1)
+```
 
 ---
 
-# Connect
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                            CONNECT                                -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.shields.io/badge/-Connect-6D28D9?style=flat-square" alt="connect" />
 
 <div align="center">
 
 <a href="mailto:adedotun@thekiwidev.me">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-adedotun@thekiwidev.me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-
-<a href="https://linkedin.com/in/thekiwidev">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/thekiwidev/">
+  <img src="https://img.shields.io/badge/LinkedIn-in/thekiwidev-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-
 <a href="https://github.com/thekiwidev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-thekiwidev-312E81?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
-
-<a href="https://thekiwidev.me">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+<a href="https://thekiwidev.me/">
+  <img src="https://img.shields.io/badge/Portfolio-thekiwidev.me-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 
 </div>
 
 ---
 
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                             FOOTER                                -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-*"Engineering products that scale, systems that last, and experiences users remember."*
+<i>"I don't memorize APIs — I know which abstraction to reach for, and when to build my own."</i>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:9333EA" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4F46E5&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
